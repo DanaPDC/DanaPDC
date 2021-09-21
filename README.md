@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Dana
 - 👀 I’m interested in learning cool stuf all the time
-- 🌱 I’m currently learning NodeJS and MongoDB
+- 🌱 I’m currently learning NodeJS and MongoDB and more Git 
 - 📫 How to reach me: danapdc@gmail.com
